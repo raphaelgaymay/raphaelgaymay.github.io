@@ -11,9 +11,8 @@ hero_image_ratio: is-1by1
 # Gaymay Raphaël
 Elève ingénieur en 1er année
 
-je bosse en avance pour voir
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[raphael.Gaymay[at]etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 

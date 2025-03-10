@@ -9,10 +9,9 @@ hero_image_ratio: is-1by1
 ---
 
 # Gaymay Raphaël
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en 1er année
 
-
-Disponible XX mois à partir de Date
+je bosse en avance pour voir
 
 [Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 

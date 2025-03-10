@@ -12,7 +12,7 @@ hero_image_ratio: is-1by1
 Elève ingénieur en 1er année
 
 
-[raphael.Gaymay@etu.unilasalle.fr](mailto:raphael.Gaymay@etu.unilasalle.fr)
+[raphael.gaymay@etu.unilasalle.fr](mailto:raphael.Gaymay@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 

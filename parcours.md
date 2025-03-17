@@ -8,18 +8,14 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
+Elève ingénieur en 1ere année
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac générale mathématiques, physque chimie, mention bien, lycée des Flandres hazebrouck 59190
 
 ## Expériences
 
@@ -38,16 +34,23 @@ _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
+`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
 
-_Intitulé du poste dans une équipe de XX membres_
+_Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+`2025` **Association, description de l’asso., taille**
+
+Isis association étudiante Unilasalle 
+*adhérent ( rend visite aux enfant de l'hopital)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 anglais : niveau B1
+* LV2 allemand : niveau A2
 
 Informatique
 * Logiciels maitrisés

@@ -14,32 +14,38 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en 1ere année
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
+`2024`
 Bac générale mathématiques, physque chimie, mention bien, lycée des Flandres hazebrouck 59190
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet d’étude –projet conception 3D**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 2 à 3 étudiants_
+* coception de pièce en 3D  (oneshape, coception 3D, impression 3d , réglage de problème d'impression)
+*conception d'un robot ( point étudiés: porgarmation"remote XY", conception 3D"oneshape, impression 3d )
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` 
+	**Gaec du Crusebeau - Steenwerck**
+Job d’été en ferme :
+-	Apporter une aide aux tâches liées à l’élevage ainsi que la rénovation du bâtiment. 
+	**Com’ à la ferme - Steenwerck**
+-	Travail de préparation de commande et travail de la viande porcine - Com’ à la ferme Steenwerck
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2022` 
+	**LET IT BIM - Steenvoorde**
+Stage d’approfondissement de l’usage du BIM
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2021`
+ **LET IT BIM - Steenvoorde** 
+Stage découverte des tâches de l’entreprise et prise en main du BIM
+  **Steenvoorde** 
+Job d’été dans le bâtiment démolition
+  **Bavinchove Job d'été en ferme**
+-	 Apporter une aide à la mise en place d’un élevage de poule
+  **L’estaminet du petit Jean - Steenvoorde** 
+Job d'été en restauration : Plonge et service
 
 `2025` **Association, description de l’asso., taille**
 
@@ -53,11 +59,10 @@ Langues
 * LV2 allemand : niveau A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* pack office
 
 Autres
-* Autres diplômes ou permis spéciaux
+PSC1
 
 ## Centres d’intérêt
 
@@ -65,6 +70,3 @@ Loisirs 1
 * Description 
 * Description 
 
-Loisirs 1
-* Description 
-* Description 
